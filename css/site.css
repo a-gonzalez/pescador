@@ -1,0 +1,15 @@
+body
+{
+	color: #000000;
+	background-color: #ffffff;
+	padding: 1px 1px 1px 1px;
+}
+
+img.uc
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 322px;
+	width: 341px;
+}
